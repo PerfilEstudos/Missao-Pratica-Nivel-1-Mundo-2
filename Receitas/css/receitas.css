@@ -1,0 +1,43 @@
+.cards{
+    padding: 0;
+    margin-top: 50px;
+    border: 50px;
+    display: flex;
+}
+
+.card{
+    background-color: rgba(248, 250, 213);
+    width: 710px;
+    margin: 10px;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    line-height: 40px;
+    margin-bottom: 20px;
+}
+.img{
+    width: 100%;
+    max-width: 300px;
+    margin-top: 10px;
+    display: flex;
+}
+
+.card ul li{
+    line-height: 5px;
+    margin: 20px;
+    margin-bottom: 10px;
+}
+
+.hr{
+    margin-top: 10px;
+ 
+    width: 100%;
+}
+
+h2{
+    line-height: 60px;
+    margin-bottom: 10px;
+    display: flex;
+}

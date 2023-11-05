@@ -1,0 +1,40 @@
+.row{
+    padding: 0;
+    display: table;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+form label{
+    font-size: 15px;
+    padding: 5px;
+   
+    
+}
+
+form input{
+    padding: 5px;
+    font-size: 15px;
+    margin-bottom: 15px;
+    
+    
+    top: 10%;
+    left:10%;   
+    
+    height: 5vh;
+}
+
+form textarea{
+    font-size: 15px;
+    padding: 5px;
+    
+    
+}
+
+form button{
+    padding: 5px;
+    cursor: pointer;
+
+}
+
